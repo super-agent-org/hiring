@@ -8,7 +8,7 @@ Here are some articles about what we are doing: [PC World](https://www.pcworld.c
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | ------------------------------------ |    
 |Remote           | Engineering  | 1        | [Senior Full Stack Developer](https://github.com/super-agent-org/hiring/blob/main/Senior%20Full%20Stack%20Developer.md) |
-|Remote           | Engineering  | 1        | [Junior Software Engineer](https://github.com/super-agent-org/hiring/blob/main/Junior%20Software%20Engineer.md)     |
+|Remote           | Engineering  | 1        | [Junior Developer](https://github.com/super-agent-org/hiring/blob/main/Junior%20Developer.md)     |
 |Remote           | Engineering  | 1        | [Senior iOS Developer](https://github.com/super-agent-org/hiring/blob/main/Senior%20iOS%20Developer.md) |
 
 
