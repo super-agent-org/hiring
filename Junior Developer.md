@@ -1,9 +1,9 @@
-### Junior Software Engineer - Remote
+### Junior Developer - Remote
 
 Super Agent is an app/browser extension, available for desktop and iOS. Super Agent automates cookie consent by automatically applying your preferences everywhere.
 Here are some articles about what we are doing: [PC World](https://www.pcworld.com/article/553284/5-free-privacy-tools-for-protecting-your-personal-data.html), [Sapo Tek](https://tek.sapo.pt/mobile/apps/artigos/super-agent-aposta-na-gestao-de-cookies-e-esta-a-ganhar-terreno-na-internacionalizacao), [How-To Geek](https://www.howtogeek.com/768022/iphone-and-ipad-safari-extensions-worth-installing/), [Mac Rumours](https://www.macrumors.com/guide/ios-15-safari-extensions/) and [Jornal Eco](https://eco.sapo.pt/2021/11/11/startup-do-porto-quer-revolucionar-a-privacidade-online/).
 
-We’re looking for a junior software engineer to help us make our app better and continue to bring new features to Super Agent.
+We’re looking for a junior developer to help us make our app better and continue to bring new features to Super Agent.
 Here’s what we need from you:
 
 Technical Requirements
