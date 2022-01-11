@@ -13,4 +13,4 @@ Here are some articles about what we are doing: [PC World](https://www.pcworld.c
 
 
 
-Send any questions, comments or apply to our positions [here](mailto:hello@super-agent.com).
+Send any questions, comments or apply to our positions [here](mailto:jobs@super-agent.com).
