@@ -40,4 +40,4 @@ You’ll have the freedom to work on your own terms, choosing solutions as you s
 
 Don’t be deterred if you don’t meet all the requirements - we’re looking forward to getting to know you!
 
-Send any questions, comments or apply to our positions [here](mailto:hello@super-agent.com).
+Send any questions, comments or apply to our positions [here](mailto:jobs@super-agent.com).
