@@ -35,7 +35,7 @@ What you get
 
 We care more about you being someone we’d love to work with and someone who can’t wait to get their hands dirty than what you specifically know today.
 
-You’ll have the freedom to work on your own terms, choosing solutions as you see fit with a very high degree of confidence.
+You’ll have the freedom to work on your own terms, choosing solutions as you see fit with a very high degree of trust.
 
 Don’t be deterred if you don’t meet all the requirements - we’re looking forward to getting to know you!
 
