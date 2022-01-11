@@ -7,9 +7,9 @@ Here are some articles about what we are doing: [PC World](https://www.pcworld.c
 
 | Location        | Area         | Openings | Position and link to Job Description |
 | --------------- | ------------ | -------- | ------------------------------------ |    
-|Remote           | Engineering  | 1        | [Senior iOS Developer](www.link.com) |
-|Remote           | Engineering  | 1        | [Senior Web Developer](www.link.com) |
-|Remote           | Engineering  | 1        | [Junior Developer](www.link.com)     |
+|Remote           | Engineering  | 1        | [Senior iOS Developer](https://github.com/super-agent-org/hiring/blob/main/Senior%20iOS%20Developer.md) |
+|Remote           | Engineering  | 1        | [Senior Web Developer](https://static.wixstatic.com/media/4a1d5b_5361da33eab146479729473ed7a5d8ce~mv2.gif) |
+|Remote           | Engineering  | 1        | [Junior Developer](https://static.wixstatic.com/media/4a1d5b_5361da33eab146479729473ed7a5d8ce~mv2.gif)     |
 
 
 
