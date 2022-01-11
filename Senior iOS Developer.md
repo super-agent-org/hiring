@@ -34,7 +34,7 @@ What you get
 -	Be a part of a growing start-up and influence the web experience over 150k users have
 
 We care more about you being someone we’d love to work with and someone who can’t wait to get their hands dirty than what you specifically know today.
-You’ll have the freedom to work on your own terms, choosing solutions as you see fit with a very high degree of 
+You’ll have the freedom to work on your own terms, choosing solutions as you see fit with a very high degree of confidence.
 Don’t be deterred if you don’t meet all the requirements - we’re looking forward to getting to know you!
 
 Send any questions, comments or apply to our positions [here](mailto:hello@super-agent.com).
